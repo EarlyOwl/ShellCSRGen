@@ -7,7 +7,7 @@ Generate a CSR+Key from the shell with a GUI
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [How do I install Dialog?](how-do-i-install-dialog)
+- [How do I install Dialog?](#how-do-i-install-dialog)
 - [Misc](#misc)
 
 ## What is this?
