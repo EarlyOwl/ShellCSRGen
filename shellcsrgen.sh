@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#Github: EarlyOwl/HTTeaPot
-#ver 1.0.0 -- This script is licensed under the MIT License
+#Github: EarlyOwl/ShellCSRGen
+#ver 1.0.1 -- This script is licensed under the MIT License
 
 # Function to display an error message
 show_error() {
